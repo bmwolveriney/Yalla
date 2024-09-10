@@ -8,6 +8,6 @@ It's a **mind game** Cricket is a challenging game that presents new challenges 
 
 ---
 
-1. Michael Jordan
-2. LeBron James
-3. Kobe Bryant
+1. Sachin Tendulkar
+2. Virat Kohli
+3. Shubman Gill
