@@ -8,7 +8,7 @@ For more details about Chicken Biryani, check out [My Dish](MyDish.md).
 
 ---
 
-## Recommended Restaurants
+## Recommended Restaurants:
 
 Here are some of my favorite restaurants and food vendors that I highly recommend. Each offers a unique dining experience with exceptional food and service. Below is a table summarizing why each place stands out and where you can find them.
 
@@ -21,10 +21,20 @@ Here are some of my favorite restaurants and food vendors that I highly recommen
 
 ---
 
-## Jokes and Humor
+## Favorite Quotes (Jokes):
 
 > "Money cannot buy happiness."  
 > _by Anonymous__
 
 > "You can’t trust atoms. They make up everything!"  
 > _by Anonymous_
+
+---
+## Code Fencing
+
+```
+SELECT column_name(s)
+FROM table1
+LEFT JOIN table2
+ON table1.column_name = table2.column_name;
+```
