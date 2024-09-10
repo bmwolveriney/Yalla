@@ -30,7 +30,7 @@ Here are some of my favorite restaurants and food vendors that I highly recommen
 > _by Anonymous_
 
 ---
-## Code Fencing
+## Left Join in SQL
 
 ```
 SELECT column_name(s)
@@ -38,3 +38,4 @@ FROM table1
 LEFT JOIN table2
 ON table1.column_name = table2.column_name;
 ```
+For more information, visit the [Code Pieces App](https://code.pieces.app/collections/sql).
