@@ -4,7 +4,7 @@
 
 It's a **mind game** Cricket is a challenging game that presents new challenges at every turn, such as batting to win with time running out or bowling the **last man out.**
 
-## Top Athletes in Basketball
+## Top Athletes in Cricket
 
 ---
 
@@ -12,7 +12,7 @@ It's a **mind game** Cricket is a challenging game that presents new challenges 
 2. Virat Kohli
 3. Shubman Gill
 
-### Places to Play Basketball
+### Places to Play Cricket
 
 - Local Community Center
 - High School Ground
