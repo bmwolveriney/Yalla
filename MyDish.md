@@ -5,7 +5,7 @@ Image of Chicken Biryani:
 ![Chicken Biryani](Chicken-Biryani.jpg)
 ## More Information
 
-For more details about Chicken Biryani, check out [My Dish](https://www.indianhealthyrecipes.com/chicken-biryani-recipe/).
+For more details about Chicken Biryani recipe, check out [My Dish](https://www.indianhealthyrecipes.com/chicken-biryani-recipe/).
 
 
 ---
@@ -33,7 +33,7 @@ Here are some of my favorite restaurants and food vendors that I highly recommen
 
 ---
 ## Left Join in SQL
-
+Syntax of Left Join in SQL: 
 ```
 SELECT column_name(s)
 FROM table1
