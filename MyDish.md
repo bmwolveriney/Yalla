@@ -5,7 +5,7 @@ Image of Chicken Biryani:
 ![Chicken Biryani](Chicken-Biryani.jpg)
 ## More Information
 
-For more details about Chicken Biryani, check out [My Dish](MyDish.md).
+For more details about Chicken Biryani, check out [My Dish](https://www.indianhealthyrecipes.com/chicken-biryani-recipe/).
 
 
 ---
